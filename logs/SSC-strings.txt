@@ -1,0 +1,17 @@
+﻿[basegame] bm_menu_btn_unselect: Unselect
+[basegame] bm_menu_stats_min_detection: Minimum Detection Risk!
+[basegame] menu_crew_ai_ap_ammo_desc: Your team AI will now use armor piercing rounds. This enables them to shoot through shields and armor.
+[basegame] menu_blackmarket: Black Market
+[basegame] bm_menu_locked_weapon_slot: Locked weapon slot
+[basegame] bm_menu_btn_buy_weapon_slot: Unlock weapon slot
+[basegame] menu_data_crew_not_allowed: Not allowed for AI!
+[basegame] bm_menu_btn_unequip_weapon: Unequip weapon
+[basegame] st_menu_value: Value
+[basegame] bm_menu_btn_equip_weapon: Equip weapon
+[basegame] bm_menu_btn_select: Select
+[basegame] menu_crew_interact_desc: Players interact $value1; faster. This bonus is increased by $value2; for every other AI present.
+[basegame] menu_data_crew_equipped_by: Currently equipped in loadout number $equipped_by;
+[basegame] dialog_warning_title: Warning
+[basegame] dialog_are_you_sure_you_want_to_quit: Are you sure you want to quit?
+[basegame] dialog_yes: Yes
+[basegame] dialog_no: No
